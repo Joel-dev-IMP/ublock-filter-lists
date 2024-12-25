@@ -1,5 +1,6 @@
 ! Custom filters
 ||tiktok.com^
+||www.youtube.com/shorts/*$document
 
 ! Title: Hide YouTube Shorts
 ! Description: Hide all traces of YouTube shorts videos on YouTube
