@@ -1,0 +1,2 @@
+! Block videos with the badge "Automatisch synchronisiert" (German)
+www.youtube.com##ytd-rich-item-renderer:has-text(/Automatisch synchronisiert/i)
