@@ -6,5 +6,9 @@
 ! Homepage: https://github.com/Joel-dev-IMP/ublock-filter-lists
 
 ! Block videos with the badge "Automatisch synchronisiert" (German)
-www.youtube.com##ytd-rich-item-renderer:has-text(/Automatisch synchronisiert/i) ! Main page
-www.youtube.com##ytd-compact-video-renderer:has-text(/Automatisch synchronisiert/i) ! Next video suggestions
+
+! Main page
+www.youtube.com##ytd-rich-item-renderer:has-text(/Automatisch synchronisiert/i)
+
+! Next video suggestions
+www.youtube.com##ytd-compact-video-renderer:has-text(/Automatisch synchronisiert/i)
