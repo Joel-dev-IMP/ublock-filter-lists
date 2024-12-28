@@ -12,3 +12,27 @@ www.youtube.com##ytd-rich-item-renderer:has-text(/Automatisch synchronisiert/i)
 
 ! Next video suggestions
 www.youtube.com##ytd-compact-video-renderer:has-text(/Automatisch synchronisiert/i)
+
+! Block videos with the badge "Doublée automatiquement" (French)
+
+! Main page
+www.youtube.com##ytd-rich-item-renderer:has-text(/Doublée automatiquement/i)
+
+! Next video suggestions
+www.youtube.com##ytd-compact-video-renderer:has-text(/Doublée automatiquement/i)
+
+! Block videos with the badge "Doblado automáticamente" (Spanish)
+
+! Main page
+www.youtube.com##ytd-rich-item-renderer:has-text(/Doblado automáticamente/i)
+
+! Next video suggestions
+www.youtube.com##ytd-compact-video-renderer:has-text(/Doblado automáticamente/i)
+
+! Block videos with the badge "Dobragem automática" (Portuguese)
+
+! Main page
+www.youtube.com##ytd-rich-item-renderer:has-text(/Doblado automáticamente/i)
+
+! Next video suggestions
+www.youtube.com##ytd-compact-video-renderer:has-text(/Doblado automáticamente/i)
