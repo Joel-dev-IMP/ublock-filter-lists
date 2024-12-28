@@ -21,6 +21,22 @@ www.youtube.com##ytd-rich-item-renderer:has-text(/Doublée automatiquement/i)
 ! Next video suggestions
 www.youtube.com##ytd-compact-video-renderer:has-text(/Doublée automatiquement/i)
 
+! Block videos with the badge "Doublage automatique" (French/Canada)
+
+! Main page
+www.youtube.com##ytd-rich-item-renderer:has-text(/Doublage automatique/i)
+
+! Next video suggestions
+www.youtube.com##ytd-compact-video-renderer:has-text(/Doublage automatique/i)
+
+! Block videos with the badge "Doppiaggio automatico" (Italian)
+
+! Main page
+www.youtube.com##ytd-rich-item-renderer:has-text(/Doppiaggio automatico/i)
+
+! Next video suggestions
+www.youtube.com##ytd-compact-video-renderer:has-text(/Doppiaggio automatico/i)
+
 ! Block videos with the badge "Doblado automáticamente" (Spanish)
 
 ! Main page
@@ -32,7 +48,7 @@ www.youtube.com##ytd-compact-video-renderer:has-text(/Doblado automáticamente/i
 ! Block videos with the badge "Dobragem automática" (Portuguese)
 
 ! Main page
-www.youtube.com##ytd-rich-item-renderer:has-text(/Doblado automáticamente/i)
+www.youtube.com##ytd-rich-item-renderer:has-text(/Dobragem automática/i)
 
 ! Next video suggestions
-www.youtube.com##ytd-compact-video-renderer:has-text(/Doblado automáticamente/i)
+www.youtube.com##ytd-compact-video-renderer:has-text(/Dobragem automática/i)
