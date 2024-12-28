@@ -1,2 +1,9 @@
+! Title: Block AI synchros
+! Description: Block videos with AI-generated translations on YouTube
+! Version: 0.1.0
+! Last modified: 2024-12-29 00:10
+! Expires: 2 weeks (update frequency)
+! Homepage: https://github.com/Joel-dev-IMP/ublock-filter-lists
+
 ! Block videos with the badge "Automatisch synchronisiert" (German)
 www.youtube.com##ytd-rich-item-renderer:has-text(/Automatisch synchronisiert/i)
