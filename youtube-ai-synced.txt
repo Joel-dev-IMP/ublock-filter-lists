@@ -2,8 +2,16 @@
 ! Description: Block videos with AI-generated translations on YouTube
 ! Version: 0.1.0
 ! Last modified: 2024-12-29 00:23
-! Expires: 2 weeks (update frequency)
+! Expires: 1 hours (update frequency)
 ! Homepage: https://github.com/Joel-dev-IMP/ublock-filter-lists
+
+! Block videos with the badge "Auto-dubbed" (English/US)
+
+! Main page
+www.youtube.com##ytd-rich-item-renderer:has-text(/Auto-dubbed/i)
+
+! Next video suggestions
+www.youtube.com##ytd-compact-video-renderer:has-text(/Auto-dubbed/i)
 
 ! Block videos with the badge "Automatisch synchronisiert" (German)
 
