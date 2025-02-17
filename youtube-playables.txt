@@ -1,0 +1,8 @@
+! Title: Block YouTube Playables
+! Description: Stop YouTube from pushing their "Playables" feature on their Homepage
+! Version: 0.1.0
+! Last modified: 2025-02-17 16:00
+! Expires: 1 hours (update frequency)
+! Homepage: https://github.com/Joel-dev-IMP/ublock-filter-lists
+
+www.youtube.com##ytd-rich-section-renderer:has(a[href*="/playables"])
