@@ -1,0 +1,9 @@
+! Title: Block Artemis Iris
+! Description: Stop Artemis AI
+! Version: 0.1.0
+! Last modified: 2025-06-12 08:00
+! Expires: 1 hours (update frequency)
+! Homepage: https://github.com/Joel-dev-IMP/ublock-filter-lists
+
+artemis.tum.de##.chatbot-button
+artemis.tum.de##.ng-star-inserted.chat-container
