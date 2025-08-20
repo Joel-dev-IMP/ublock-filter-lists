@@ -7,3 +7,4 @@
 
 artemis.tum.de##.chatbot-button
 artemis.tum.de##.ng-star-inserted.chat-container
+artemis.tum.de##jhi-exercise-chatbot-button
