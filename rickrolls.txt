@@ -6,4 +6,4 @@
 ! Homepage: https://github.com/Joel-dev-IMP/ublock-filter-lists
 
 ||www.youtube.com/watch?v=dQw4w9WgXcQ^$all
-||https://scoreboard.sec.in.tum.de/static/1337.key^$all
+||scoreboard.sec.in.tum.de/static/1337.key^$all
