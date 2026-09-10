@@ -1,0 +1,15 @@
+! Title: Block YouTube Bot Profile Pictures
+! Description: Avoid Nude Pictures on YouTube Bots
+! Version: 0.1.0
+! Last modified: 2026-09-10 09:30
+! Expires: 1 hours (update frequency)
+! Homepage: https://github.com/Joel-dev-IMP/ublock-filter-lists
+
+! YouTube Comment Bots are currently applying the following strategy:
+! Certain Bots without explicit profile pictures are copying comments with small modifications (e.g. adding a dot)
+! These accounts don't have any content, and they have no links to sketchy websites.
+! Instead, they link other bot accounts (with very explicit profile pictures) in the "recommended channels" section.
+! This second category of bots then links to the sketchy websites.
+! To allow viewing the first type of bots (and reporting them) without having to view the explicit profile pictures of the
+! second type of bots, the following filter blocks all profile pictures of "recommended channels"
+www.youtube.com##yt-img-shadow.ytd-grid-channel-renderer > img
