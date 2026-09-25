@@ -68,7 +68,7 @@ https://raw.githubusercontent.com/Joel-dev-IMP/ublock-filter-lists/refs/heads/ma
 
 ## Block Rickrolls
 
-Block known Rickrolls, except for my own one of course :)
+Block known Rickrolls, except for [my own one](https://joel-dev-imp.github.io/rickroll/) of course :)
 
 You can install this filter list by going to your `uBlock-Settings > Filter lists > Import` and pasting the following URL:
 
