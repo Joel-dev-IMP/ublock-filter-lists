@@ -4,5 +4,6 @@
 ! Last modified: 2025-02-17 16:00
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://github.com/Joel-dev-IMP/ublock-filter-lists
+! License: https://raw.githubusercontent.com/Joel-dev-IMP/ublock-filter-lists/refs/heads/main/LICENSE
 
 www.youtube.com##ytd-rich-section-renderer:has(a[href*="/playables"])

@@ -1,9 +1,10 @@
 ! Title: Block Rickrolls
-! Description: Block commonly known Rickrolls, people gotta be more creative
+! Description: Block commonly known Rickrolls
 ! Version: 0.1.0
 ! Last modified: 2025-01-09 09:41
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://github.com/Joel-dev-IMP/ublock-filter-lists
+! License: https://raw.githubusercontent.com/Joel-dev-IMP/ublock-filter-lists/refs/heads/main/LICENSE
 
 ||www.youtube.com/watch?v=dQw4w9WgXcQ^$all
 ||scoreboard.sec.in.tum.de/static/1337.key^$all

@@ -1,10 +1,10 @@
 ! Title: Hide Short-Form content
 ! Description: Hide all traces of YouTube shorts videos on YouTube, block TikTok
 ! Version: 1.10.0
-! Last modified: 2024-08-31 19:24
+! Last modified: 2026-09-25 11:45
 ! Expires: 2 weeks (update frequency)
-! Homepage: https://github.com/gijsdev/ublock-hide-yt-shorts
-! License: https://github.com/gijsdev/ublock-hide-yt-shorts/blob/master/LICENSE.md
+! Homepage: https://github.com/Joel-dev-IMP/ublock-filter-lists
+! License: https://raw.githubusercontent.com/Joel-dev-IMP/ublock-filter-lists/refs/heads/main/LICENSE
 
 ! Custom filters
 ||tiktok.com^
